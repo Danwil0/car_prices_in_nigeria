@@ -42,7 +42,7 @@ Wrote queries to answer real questions:
 
 ### 5. Jupyter Notebook Visualizations
 
-## 📊 Key Findings
+## Key Findings
 
 ### Price Depreciation
 - New cars (1-2 years): Average ₦90M+
